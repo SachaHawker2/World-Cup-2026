@@ -1,0 +1,966 @@
+{
+  "lastUpdated": "2026-06-12T12:53:46.051Z",
+  "teams": {
+    "Netherlands": {
+      "id": 8601,
+      "name": "Netherlands",
+      "crest": "https://crests.football-data.org/8601.svg",
+      "fifaRank": 7,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-14T20:00:00Z",
+        "opponent": "Japan",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Colombia": {
+      "id": 818,
+      "name": "Colombia",
+      "crest": "https://crests.football-data.org/818.svg",
+      "fifaRank": 12,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-18T02:00:00Z",
+        "opponent": "Uzbekistan",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Qatar": {
+      "id": 8030,
+      "name": "Qatar",
+      "crest": "https://crests.football-data.org/8030.svg",
+      "fifaRank": 32,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-13T19:00:00Z",
+        "opponent": "Switzerland",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Ghana": {
+      "id": 763,
+      "name": "Ghana",
+      "crest": "https://crests.football-data.org/ghana.svg",
+      "fifaRank": 43,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-17T23:00:00Z",
+        "opponent": "Panama",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "France": {
+      "id": 773,
+      "name": "France",
+      "crest": "https://crests.football-data.org/773.svg",
+      "fifaRank": 3,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-16T19:00:00Z",
+        "opponent": "Senegal",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Japan": {
+      "id": 766,
+      "name": "Japan",
+      "crest": "https://crests.football-data.org/766.svg",
+      "fifaRank": 17,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-14T20:00:00Z",
+        "opponent": "Netherlands",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Ivory Coast": {
+      "id": 1935,
+      "name": "Ivory Coast",
+      "crest": "https://crests.football-data.org/787.svg",
+      "fifaRank": 30,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-14T23:00:00Z",
+        "opponent": "Ecuador",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Cape Verde Islands": {
+      "id": 1930,
+      "name": "Cape Verde Islands",
+      "crest": "https://crests.football-data.org/cape_verde.svg",
+      "fifaRank": 44,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-15T16:00:00Z",
+        "opponent": "Spain",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Germany": {
+      "id": 759,
+      "name": "Germany",
+      "crest": "https://crests.football-data.org/759.svg",
+      "fifaRank": 8,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-14T17:00:00Z",
+        "opponent": "Curaçao",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Uruguay": {
+      "id": 758,
+      "name": "Uruguay",
+      "crest": "https://crests.football-data.org/758.svg",
+      "fifaRank": 16,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-15T22:00:00Z",
+        "opponent": "Saudi Arabia",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Australia": {
+      "id": 779,
+      "name": "Australia",
+      "crest": "https://crests.football-data.org/779.svg",
+      "fifaRank": 24,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-14T04:00:00Z",
+        "opponent": "Turkey",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Sweden": {
+      "id": 792,
+      "name": "Sweden",
+      "crest": "https://crests.football-data.org/792.svg",
+      "fifaRank": 37,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-15T02:00:00Z",
+        "opponent": "Tunisia",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Croatia": {
+      "id": 799,
+      "name": "Croatia",
+      "crest": "https://crests.football-data.org/799.svg",
+      "fifaRank": 10,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-17T20:00:00Z",
+        "opponent": "England",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Senegal": {
+      "id": 804,
+      "name": "Senegal",
+      "crest": "https://crests.football-data.org/senegal.svg",
+      "fifaRank": 13,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-16T19:00:00Z",
+        "opponent": "France",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Norway": {
+      "id": 8872,
+      "name": "Norway",
+      "crest": "https://crests.football-data.org/813.svg",
+      "fifaRank": 28,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-16T22:00:00Z",
+        "opponent": "Iraq",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Iraq": {
+      "id": 8062,
+      "name": "Iraq",
+      "crest": "https://crests.football-data.org/iraq.svg",
+      "fifaRank": 34,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-16T22:00:00Z",
+        "opponent": "Norway",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "England": {
+      "id": 770,
+      "name": "England",
+      "crest": "https://crests.football-data.org/770.svg",
+      "fifaRank": 4,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-17T20:00:00Z",
+        "opponent": "Croatia",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Turkey": {
+      "id": 803,
+      "name": "Turkey",
+      "crest": "https://crests.football-data.org/803.svg",
+      "fifaRank": 20,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-14T04:00:00Z",
+        "opponent": "Australia",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Panama": {
+      "id": 1836,
+      "name": "Panama",
+      "crest": "https://crests.football-data.org/panama.svg",
+      "fifaRank": 29,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-17T23:00:00Z",
+        "opponent": "Ghana",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Scotland": {
+      "id": 8873,
+      "name": "Scotland",
+      "crest": "https://crests.football-data.org/814.svg",
+      "fifaRank": 38,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-14T01:00:00Z",
+        "opponent": "Haiti",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Brazil": {
+      "id": 764,
+      "name": "Brazil",
+      "crest": "https://crests.football-data.org/764.svg",
+      "fifaRank": 6,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-13T22:00:00Z",
+        "opponent": "Morocco",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Switzerland": {
+      "id": 788,
+      "name": "Switzerland",
+      "crest": "https://crests.football-data.org/788.svg",
+      "fifaRank": 18,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-13T19:00:00Z",
+        "opponent": "Qatar",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Paraguay": {
+      "id": 761,
+      "name": "Paraguay",
+      "crest": "https://crests.football-data.org/761.svg",
+      "fifaRank": 31,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-13T01:00:00Z",
+        "opponent": "United States",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Tunisia": {
+      "id": 802,
+      "name": "Tunisia",
+      "crest": "https://crests.football-data.org/tunisia.svg",
+      "fifaRank": 42,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-15T02:00:00Z",
+        "opponent": "Sweden",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Morocco": {
+      "id": 815,
+      "name": "Morocco",
+      "crest": "https://crests.football-data.org/morocco.svg",
+      "fifaRank": 11,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-13T22:00:00Z",
+        "opponent": "Brazil",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Mexico": {
+      "id": 769,
+      "name": "Mexico",
+      "crest": "https://crests.football-data.org/769.svg",
+      "fifaRank": 14,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "goalDifference": 2,
+      "played": 1,
+      "eliminated": false,
+      "round": "GROUP_STAGE",
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-19T01:00:00Z",
+        "opponent": "South Korea",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Algeria": {
+      "id": 778,
+      "name": "Algeria",
+      "crest": "https://crests.football-data.org/algeria.svg",
+      "fifaRank": 25,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-17T01:00:00Z",
+        "opponent": "Argentina",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Czechia": {
+      "id": 798,
+      "name": "Czechia",
+      "crest": "https://crests.football-data.org/798.svg",
+      "fifaRank": 39,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "goalDifference": -1,
+      "played": 1,
+      "eliminated": false,
+      "round": "GROUP_STAGE",
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-18T16:00:00Z",
+        "opponent": "South Africa",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Spain": {
+      "id": 760,
+      "name": "Spain",
+      "crest": "https://crests.football-data.org/760.svg",
+      "fifaRank": 2,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-15T16:00:00Z",
+        "opponent": "Cape Verde Islands",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Austria": {
+      "id": 816,
+      "name": "Austria",
+      "crest": "https://crests.football-data.org/816.svg",
+      "fifaRank": 22,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-17T04:00:00Z",
+        "opponent": "Jordan",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Egypt": {
+      "id": 825,
+      "name": "Egypt",
+      "crest": "https://crests.football-data.org/825.svg",
+      "fifaRank": 26,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-15T19:00:00Z",
+        "opponent": "Belgium",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "South Africa": {
+      "id": 774,
+      "name": "South Africa",
+      "crest": "https://crests.football-data.org/9396.svg",
+      "fifaRank": 36,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "goalDifference": -2,
+      "played": 1,
+      "eliminated": false,
+      "round": "GROUP_STAGE",
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-18T16:00:00Z",
+        "opponent": "Czechia",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Portugal": {
+      "id": 765,
+      "name": "Portugal",
+      "crest": "https://crests.football-data.org/765.svg",
+      "fifaRank": 5,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-17T17:00:00Z",
+        "opponent": "Congo DR",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "United States": {
+      "id": 771,
+      "name": "United States",
+      "crest": "https://crests.football-data.org/usa.svg",
+      "fifaRank": 15,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-13T01:00:00Z",
+        "opponent": "Paraguay",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Saudi Arabia": {
+      "id": 801,
+      "name": "Saudi Arabia",
+      "crest": "https://crests.football-data.org/saudi_arabia.svg",
+      "fifaRank": 33,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-15T22:00:00Z",
+        "opponent": "Uruguay",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Jordan": {
+      "id": 8049,
+      "name": "Jordan",
+      "crest": "https://crests.football-data.org/8049.png",
+      "fifaRank": 41,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-17T04:00:00Z",
+        "opponent": "Austria",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Belgium": {
+      "id": 805,
+      "name": "Belgium",
+      "crest": "https://crests.football-data.org/805.svg",
+      "fifaRank": 9,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-15T19:00:00Z",
+        "opponent": "Egypt",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Iran": {
+      "id": 840,
+      "name": "Iran",
+      "crest": "https://crests.football-data.org/iran.svg",
+      "fifaRank": 19,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-16T01:00:00Z",
+        "opponent": "New Zealand",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "South Korea": {
+      "id": 772,
+      "name": "South Korea",
+      "crest": "https://crests.football-data.org/772.png",
+      "fifaRank": 23,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "goalDifference": 1,
+      "played": 1,
+      "eliminated": false,
+      "round": "GROUP_STAGE",
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-19T01:00:00Z",
+        "opponent": "Mexico",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Congo DR": {
+      "id": 1934,
+      "name": "Congo DR",
+      "crest": "https://crests.football-data.org/congo_dr.svg",
+      "fifaRank": 35,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-17T17:00:00Z",
+        "opponent": "Portugal",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Argentina": {
+      "id": 762,
+      "name": "Argentina",
+      "crest": "https://crests.football-data.org/762.png",
+      "fifaRank": 1,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-17T01:00:00Z",
+        "opponent": "Algeria",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Ecuador": {
+      "id": 791,
+      "name": "Ecuador",
+      "crest": "https://crests.football-data.org/791.svg",
+      "fifaRank": 21,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-14T23:00:00Z",
+        "opponent": "Ivory Coast",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Canada": {
+      "id": 828,
+      "name": "Canada",
+      "crest": "https://crests.football-data.org/canada.svg",
+      "fifaRank": 27,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-12T19:00:00Z",
+        "opponent": "Bosnia-Herzegovina",
+        "stage": "GROUP_STAGE"
+      }
+    },
+    "Uzbekistan": {
+      "id": 8070,
+      "name": "Uzbekistan",
+      "crest": "https://crests.football-data.org/8070.png",
+      "fifaRank": 40,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "played": 0,
+      "eliminated": false,
+      "round": null,
+      "finishPosition": null,
+      "nextMatch": {
+        "date": "2026-06-18T02:00:00Z",
+        "opponent": "Colombia",
+        "stage": "GROUP_STAGE"
+      }
+    }
+  },
+  "participantStandings": [
+    {
+      "name": "Eleanor",
+      "teams": [
+        "Netherlands",
+        "Colombia",
+        "Qatar",
+        "Ghana"
+      ],
+      "totalGoalsFor": 0,
+      "totalGoalsAgainst": 0,
+      "netGoalDifference": 0,
+      "bestFinishPosition": null,
+      "prizePosition": null
+    },
+    {
+      "name": "Susie",
+      "teams": [
+        "France",
+        "Japan",
+        "Ivory Coast",
+        "Cape Verde Islands"
+      ],
+      "totalGoalsFor": 0,
+      "totalGoalsAgainst": 0,
+      "netGoalDifference": 0,
+      "bestFinishPosition": null,
+      "prizePosition": null
+    },
+    {
+      "name": "Scott",
+      "teams": [
+        "Germany",
+        "Uruguay",
+        "Australia",
+        "Sweden"
+      ],
+      "totalGoalsFor": 0,
+      "totalGoalsAgainst": 0,
+      "netGoalDifference": 0,
+      "bestFinishPosition": null,
+      "prizePosition": null
+    },
+    {
+      "name": "Ryan",
+      "teams": [
+        "Croatia",
+        "Senegal",
+        "Norway",
+        "Iraq"
+      ],
+      "totalGoalsFor": 0,
+      "totalGoalsAgainst": 0,
+      "netGoalDifference": 0,
+      "bestFinishPosition": null,
+      "prizePosition": null
+    },
+    {
+      "name": "Orlagh",
+      "teams": [
+        "England",
+        "Turkey",
+        "Panama",
+        "Scotland"
+      ],
+      "totalGoalsFor": 0,
+      "totalGoalsAgainst": 0,
+      "netGoalDifference": 0,
+      "bestFinishPosition": null,
+      "prizePosition": null
+    },
+    {
+      "name": "Sacha",
+      "teams": [
+        "Brazil",
+        "Switzerland",
+        "Paraguay",
+        "Tunisia"
+      ],
+      "totalGoalsFor": 0,
+      "totalGoalsAgainst": 0,
+      "netGoalDifference": 0,
+      "bestFinishPosition": null,
+      "prizePosition": null
+    },
+    {
+      "name": "Sarai",
+      "teams": [
+        "Morocco",
+        "Mexico",
+        "Algeria",
+        "Czechia"
+      ],
+      "totalGoalsFor": 3,
+      "totalGoalsAgainst": 2,
+      "netGoalDifference": 1,
+      "bestFinishPosition": null,
+      "prizePosition": null
+    },
+    {
+      "name": "Dzhan",
+      "teams": [
+        "Spain",
+        "Austria",
+        "Egypt",
+        "South Africa"
+      ],
+      "totalGoalsFor": 0,
+      "totalGoalsAgainst": 2,
+      "netGoalDifference": -2,
+      "bestFinishPosition": null,
+      "prizePosition": null
+    },
+    {
+      "name": "Mirissa",
+      "teams": [
+        "Portugal",
+        "United States",
+        "Saudi Arabia",
+        "Jordan"
+      ],
+      "totalGoalsFor": 0,
+      "totalGoalsAgainst": 0,
+      "netGoalDifference": 0,
+      "bestFinishPosition": null,
+      "prizePosition": null
+    },
+    {
+      "name": "Mathieu",
+      "teams": [
+        "Belgium",
+        "Iran",
+        "South Korea",
+        "Congo DR"
+      ],
+      "totalGoalsFor": 2,
+      "totalGoalsAgainst": 1,
+      "netGoalDifference": 1,
+      "bestFinishPosition": null,
+      "prizePosition": null
+    },
+    {
+      "name": "Hazel",
+      "teams": [
+        "Argentina",
+        "Ecuador",
+        "Canada",
+        "Uzbekistan"
+      ],
+      "totalGoalsFor": 0,
+      "totalGoalsAgainst": 0,
+      "netGoalDifference": 0,
+      "bestFinishPosition": null,
+      "prizePosition": null
+    }
+  ],
+  "prizes": {
+    "totalPot": 55,
+    "goalsRefund": {
+      "leader": "Dzhan",
+      "recipient": null,
+      "amount": 5
+    },
+    "remainingPot": 50,
+    "first": {
+      "recipient": null,
+      "amount": 50
+    }
+  }
+}

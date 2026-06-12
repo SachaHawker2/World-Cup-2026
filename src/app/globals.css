@@ -1,0 +1,146 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --gold: #fbbf24;
+  --pitch-green: #22c55e;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: #f8fafc;
+  background-color: #060f09;
+  background-image:
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(34, 197, 94, 0.13), transparent),
+    radial-gradient(ellipse 60% 40% at 90% 110%, rgba(251, 191, 36, 0.05), transparent);
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+/* Subtle pitch-line texture overlay */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    90deg,
+    transparent,
+    transparent 119px,
+    rgba(34, 197, 94, 0.022) 119px,
+    rgba(34, 197, 94, 0.022) 120px
+  );
+  pointer-events: none;
+  z-index: 0;
+}
+
+main, nav, footer {
+  position: relative;
+  z-index: 1;
+}
+
+/* Glass card */
+.glass {
+  background: linear-gradient(160deg, rgba(15, 45, 22, 0.65), rgba(8, 22, 12, 0.85));
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(34, 197, 94, 0.16);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+
+.glass-hover {
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.35s ease, border-color 0.35s ease;
+}
+
+.glass-hover:hover {
+  transform: translateY(-4px);
+  border-color: rgba(34, 197, 94, 0.45);
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.5), 0 0 24px rgba(34, 197, 94, 0.12), inset 0 1px 0 rgba(255, 255, 255, 0.06);
+}
+
+/* Gradient text */
+.text-gradient-gold {
+  background: linear-gradient(110deg, #fde68a, #fbbf24 40%, #f59e0b 60%, #fde68a);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer 4s linear infinite;
+}
+
+.text-gradient-green {
+  background: linear-gradient(110deg, #86efac, #22c55e 50%, #86efac);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer 5s linear infinite;
+}
+
+/* Gold shimmer border for champion/prize cards */
+.gold-card {
+  position: relative;
+  background: linear-gradient(160deg, rgba(69, 47, 8, 0.5), rgba(20, 14, 2, 0.8));
+  border: 1px solid rgba(251, 191, 36, 0.35);
+}
+
+/* Table row hover sweep */
+.row-hover {
+  position: relative;
+  transition: background-color 0.25s ease;
+}
+
+.row-hover:hover {
+  background: linear-gradient(90deg, rgba(34, 197, 94, 0.10), rgba(34, 197, 94, 0.03) 60%, transparent);
+}
+
+/* Staggered entrance delays */
+.stagger > * {
+  opacity: 0;
+  animation: fade-up 0.6s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+.stagger > *:nth-child(1) { animation-delay: 0.05s; }
+.stagger > *:nth-child(2) { animation-delay: 0.12s; }
+.stagger > *:nth-child(3) { animation-delay: 0.19s; }
+.stagger > *:nth-child(4) { animation-delay: 0.26s; }
+.stagger > *:nth-child(5) { animation-delay: 0.33s; }
+.stagger > *:nth-child(6) { animation-delay: 0.40s; }
+.stagger > *:nth-child(7) { animation-delay: 0.47s; }
+.stagger > *:nth-child(8) { animation-delay: 0.54s; }
+.stagger > *:nth-child(9) { animation-delay: 0.61s; }
+.stagger > *:nth-child(10) { animation-delay: 0.68s; }
+.stagger > *:nth-child(11) { animation-delay: 0.75s; }
+.stagger > *:nth-child(12) { animation-delay: 0.82s; }
+
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% center; }
+  100% { background-position: -200% center; }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: #060f09; }
+::-webkit-scrollbar-thumb {
+  background: rgba(34, 197, 94, 0.25);
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover { background: rgba(34, 197, 94, 0.45); }
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  .stagger > * { opacity: 1; }
+}

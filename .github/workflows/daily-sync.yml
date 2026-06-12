@@ -1,0 +1,40 @@
+name: Daily Data Sync
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 8 AM BST
+    - cron: '0 10 * * *'  # 11 AM BST
+    - cron: '0 13 * * *'  # 2 PM BST
+    - cron: '0 16 * * *'  # 5 PM BST
+    - cron: '0 19 * * *'  # 8 PM BST — US games starting
+    - cron: '0 22 * * *'  # 11 PM BST — US evening games
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Sync standings data
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: node scripts/sync.js
+
+      - name: Commit updated standings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/standings.json
+          git diff --staged --quiet || git commit -m "chore: daily standings update $(date -u +%Y-%m-%d)"
+          git push
