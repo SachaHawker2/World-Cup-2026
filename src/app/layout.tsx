@@ -15,7 +15,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <body className={inter.className}>
         <nav className="sticky top-0 z-50 border-b border-green-500/15 bg-[#060f09]/80 backdrop-blur-xl">
-          <div className="mx-auto max-w-5xl px-4 py-4 flex items-center justify-between">
+          <div className="mx-auto max-w-6xl px-4 py-4 flex items-center justify-between">
             <Link href="/" className="group flex items-center gap-2.5">
               <span className="text-2xl group-hover:animate-float inline-block transition-transform group-hover:scale-110">⚽</span>
               <span className="font-extrabold text-lg tracking-tight">
@@ -25,7 +25,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </Link>
             <div className="flex gap-1 text-sm font-medium">
               {[
-                { href: '/', label: 'Standings' },
+                { href: '/', label: 'Dashboard' },
+                { href: '/standings', label: 'Standings' },
                 { href: '/draw', label: 'The Draw' },
                 { href: '/prizes', label: 'Prizes' }
               ].map(({ href, label }) => (
@@ -40,11 +41,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </div>
           </div>
         </nav>
-        <main className="mx-auto max-w-5xl px-4 py-10">
+        <main className="mx-auto max-w-6xl px-4 py-10">
           {children}
         </main>
         <footer className="text-center text-xs text-slate-600 pb-10 animate-fade-in">
-          <div className="mx-auto max-w-5xl px-4 pt-6 border-t border-green-500/10">
+          <div className="mx-auto max-w-6xl px-4 pt-6 border-t border-green-500/10">
             Data updated daily via football-data.org
           </div>
         </footer>

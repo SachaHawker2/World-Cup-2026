@@ -4,103 +4,40 @@
   "prizeSplit": [1.0],
   "participants": [
     {
-      "name": "Eleanor",
-      "teams": [
-        "Netherlands",
-        "Colombia",
-        "Qatar",
-        "Ghana"
-      ]
-    },
-    {
-      "name": "Susie",
-      "teams": [
-        "France",
-        "Japan",
-        "Ivory Coast",
-        "Cape Verde Islands"
-      ]
-    },
-    {
-      "name": "Scott",
-      "teams": [
-        "Germany",
-        "Uruguay",
-        "Australia",
-        "Sweden"
-      ]
-    },
-    {
-      "name": "Ryan",
-      "teams": [
-        "Croatia",
-        "Senegal",
-        "Norway",
-        "Iraq"
-      ]
-    },
-    {
-      "name": "Orlagh",
-      "teams": [
-        "England",
-        "Turkey",
-        "Panama",
-        "Scotland"
-      ]
-    },
-    {
       "name": "Sacha",
-      "teams": [
-        "Brazil",
-        "Switzerland",
-        "Paraguay",
-        "Tunisia"
-      ]
+      "teams": ["Germany"]
     },
     {
-      "name": "Sarai",
-      "teams": [
-        "Morocco",
-        "Mexico",
-        "Algeria",
-        "Czechia"
-      ]
+      "name": "Adam",
+      "teams": ["England"]
     },
     {
-      "name": "Dzhan",
-      "teams": [
-        "Spain",
-        "Austria",
-        "Egypt",
-        "South Africa"
-      ]
+      "name": "Tracy",
+      "teams": ["France"]
     },
     {
-      "name": "Mirissa",
-      "teams": [
-        "Portugal",
-        "United States",
-        "Saudi Arabia",
-        "Jordan"
-      ]
+      "name": "James",
+      "teams": ["Netherlands"]
     },
     {
-      "name": "Mathieu",
-      "teams": [
-        "Belgium",
-        "Iran",
-        "South Korea",
-        "Congo DR"
-      ]
+      "name": "Rorie",
+      "teams": ["Belgium"]
     },
     {
-      "name": "Hazel",
-      "teams": [
-        "Argentina",
-        "Ecuador",
-        "Canada",
-        "Uzbekistan"
-      ]
+      "name": "G",
+      "teams": ["Brazil"]
+    },
+    {
+      "name": "Ellie",
+      "teams": ["Argentina"]
+    },
+    {
+      "name": "Chloe",
+      "teams": ["Portugal"]
+    },
+    {
+      "name": "Cydney",
+      "teams": ["Spain"]
     }
   ]
 }
