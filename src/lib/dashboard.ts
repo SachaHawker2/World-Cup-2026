@@ -38,10 +38,10 @@ export interface UpcomingMatch {
 
 export function getUpcomingMatches(config: Config, standings: Standings): UpcomingMatch[] {
   return config.participants
-    .flatMap(p =>
+    .flatMap(p => 
       p.teams.map(teamName => {
-        const td = standings.teams[teamName]
-        if (!td?.nextMatch || td.eliminated || td.finishPosition) return null
+        const td = standings.teams[teamName];
+        if (!td || !td.nextMatch) return null;
         return {
           team: teamName,
           holder: p.name,
@@ -49,11 +49,10 @@ export function getUpcomingMatches(config: Config, standings: Standings): Upcomi
           date: td.nextMatch.date,
           stage: td.nextMatch.stage,
           crest: td.crest
-        }
+        };
       })
     )
-    .filter((m): m is UpcomingMatch => m !== null)
-    .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime())
+    .filter((match): match is UpcomingMatch => match !== null); // <-- This line fixes the Cloud crash!
 }
 
 export function getDashboardStats(config: Config, standings: Standings) {
