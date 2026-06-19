@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-06-14T00:00:00.000Z",
+  "lastUpdated": "2026-06-19T13:55:12.846Z",
   "teams": {
     "Germany": {
       "id": 759,
       "name": "Germany",
       "crest": "https://crests.football-data.org/759.svg",
       "fifaRank": 8,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
-      "played": 0,
+      "goalsFor": 7,
+      "goalsAgainst": 1,
+      "goalDifference": 6,
+      "played": 1,
       "eliminated": false,
-      "round": null,
+      "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-14T17:00:00Z",
-        "opponent": "Curaçao",
+        "date": "2026-06-20T20:00:00Z",
+        "opponent": "Ivory Coast",
         "stage": "GROUP_STAGE"
       }
     },
@@ -24,16 +24,16 @@
       "name": "England",
       "crest": "https://crests.football-data.org/770.svg",
       "fifaRank": 4,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
-      "played": 0,
+      "goalsFor": 4,
+      "goalsAgainst": 2,
+      "goalDifference": 2,
+      "played": 1,
       "eliminated": false,
-      "round": null,
+      "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-17T20:00:00Z",
-        "opponent": "Croatia",
+        "date": "2026-06-23T20:00:00Z",
+        "opponent": "Ghana",
         "stage": "GROUP_STAGE"
       }
     },
@@ -42,16 +42,16 @@
       "name": "France",
       "crest": "https://crests.football-data.org/773.svg",
       "fifaRank": 3,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
-      "goalDifference": 0,
-      "played": 0,
+      "goalsFor": 3,
+      "goalsAgainst": 1,
+      "goalDifference": 2,
+      "played": 1,
       "eliminated": false,
-      "round": null,
+      "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-16T19:00:00Z",
-        "opponent": "Senegal",
+        "date": "2026-06-22T21:00:00Z",
+        "opponent": "Iraq",
         "stage": "GROUP_STAGE"
       }
     },
@@ -60,16 +60,16 @@
       "name": "Netherlands",
       "crest": "https://crests.football-data.org/8601.svg",
       "fifaRank": 7,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
       "goalDifference": 0,
-      "played": 0,
+      "played": 1,
       "eliminated": false,
-      "round": null,
+      "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-14T20:00:00Z",
-        "opponent": "Japan",
+        "date": "2026-06-20T17:00:00Z",
+        "opponent": "Sweden",
         "stage": "GROUP_STAGE"
       }
     },
@@ -78,16 +78,16 @@
       "name": "Belgium",
       "crest": "https://crests.football-data.org/805.svg",
       "fifaRank": 9,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "goalDifference": 0,
-      "played": 0,
+      "played": 1,
       "eliminated": false,
-      "round": null,
+      "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-15T19:00:00Z",
-        "opponent": "Egypt",
+        "date": "2026-06-21T19:00:00Z",
+        "opponent": "Iran",
         "stage": "GROUP_STAGE"
       }
     },
@@ -96,16 +96,16 @@
       "name": "Brazil",
       "crest": "https://crests.football-data.org/764.svg",
       "fifaRank": 6,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "goalDifference": 0,
-      "played": 0,
+      "played": 1,
       "eliminated": false,
-      "round": null,
+      "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-13T22:00:00Z",
-        "opponent": "Morocco",
+        "date": "2026-06-20T00:30:00Z",
+        "opponent": "Haiti",
         "stage": "GROUP_STAGE"
       }
     },
@@ -114,16 +114,16 @@
       "name": "Argentina",
       "crest": "https://crests.football-data.org/762.png",
       "fifaRank": 1,
-      "goalsFor": 0,
+      "goalsFor": 3,
       "goalsAgainst": 0,
-      "goalDifference": 0,
-      "played": 0,
+      "goalDifference": 3,
+      "played": 1,
       "eliminated": false,
-      "round": null,
+      "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-17T01:00:00Z",
-        "opponent": "Algeria",
+        "date": "2026-06-22T17:00:00Z",
+        "opponent": "Austria",
         "stage": "GROUP_STAGE"
       }
     },
@@ -132,16 +132,16 @@
       "name": "Portugal",
       "crest": "https://crests.football-data.org/765.svg",
       "fifaRank": 5,
-      "goalsFor": 0,
-      "goalsAgainst": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
       "goalDifference": 0,
-      "played": 0,
+      "played": 1,
       "eliminated": false,
-      "round": null,
+      "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-17T17:00:00Z",
-        "opponent": "Congo DR",
+        "date": "2026-06-23T17:00:00Z",
+        "opponent": "Uzbekistan",
         "stage": "GROUP_STAGE"
       }
     },
@@ -153,13 +153,13 @@
       "goalsFor": 0,
       "goalsAgainst": 0,
       "goalDifference": 0,
-      "played": 0,
+      "played": 1,
       "eliminated": false,
-      "round": null,
+      "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-15T16:00:00Z",
-        "opponent": "Cape Verde Islands",
+        "date": "2026-06-21T16:00:00Z",
+        "opponent": "Saudi Arabia",
         "stage": "GROUP_STAGE"
       }
     }
@@ -167,79 +167,97 @@
   "participantStandings": [
     {
       "name": "Sacha",
-      "teams": ["Germany"],
-      "totalGoalsFor": 0,
-      "totalGoalsAgainst": 0,
-      "netGoalDifference": 0,
+      "teams": [
+        "Germany"
+      ],
+      "totalGoalsFor": 7,
+      "totalGoalsAgainst": 1,
+      "netGoalDifference": 6,
       "bestFinishPosition": null,
       "prizePosition": null
     },
     {
       "name": "Adam",
-      "teams": ["England"],
-      "totalGoalsFor": 0,
-      "totalGoalsAgainst": 0,
-      "netGoalDifference": 0,
+      "teams": [
+        "England"
+      ],
+      "totalGoalsFor": 4,
+      "totalGoalsAgainst": 2,
+      "netGoalDifference": 2,
       "bestFinishPosition": null,
       "prizePosition": null
     },
     {
       "name": "Tracy",
-      "teams": ["France"],
-      "totalGoalsFor": 0,
-      "totalGoalsAgainst": 0,
-      "netGoalDifference": 0,
+      "teams": [
+        "France"
+      ],
+      "totalGoalsFor": 3,
+      "totalGoalsAgainst": 1,
+      "netGoalDifference": 2,
       "bestFinishPosition": null,
       "prizePosition": null
     },
     {
       "name": "James",
-      "teams": ["Netherlands"],
-      "totalGoalsFor": 0,
-      "totalGoalsAgainst": 0,
+      "teams": [
+        "Netherlands"
+      ],
+      "totalGoalsFor": 2,
+      "totalGoalsAgainst": 2,
       "netGoalDifference": 0,
       "bestFinishPosition": null,
       "prizePosition": null
     },
     {
       "name": "Rorie",
-      "teams": ["Belgium"],
-      "totalGoalsFor": 0,
-      "totalGoalsAgainst": 0,
+      "teams": [
+        "Belgium"
+      ],
+      "totalGoalsFor": 1,
+      "totalGoalsAgainst": 1,
       "netGoalDifference": 0,
       "bestFinishPosition": null,
       "prizePosition": null
     },
     {
       "name": "G",
-      "teams": ["Brazil"],
-      "totalGoalsFor": 0,
-      "totalGoalsAgainst": 0,
+      "teams": [
+        "Brazil"
+      ],
+      "totalGoalsFor": 1,
+      "totalGoalsAgainst": 1,
       "netGoalDifference": 0,
       "bestFinishPosition": null,
       "prizePosition": null
     },
     {
       "name": "Ellie",
-      "teams": ["Argentina"],
-      "totalGoalsFor": 0,
+      "teams": [
+        "Argentina"
+      ],
+      "totalGoalsFor": 3,
       "totalGoalsAgainst": 0,
-      "netGoalDifference": 0,
+      "netGoalDifference": 3,
       "bestFinishPosition": null,
       "prizePosition": null
     },
     {
       "name": "Chloe",
-      "teams": ["Portugal"],
-      "totalGoalsFor": 0,
-      "totalGoalsAgainst": 0,
+      "teams": [
+        "Portugal"
+      ],
+      "totalGoalsFor": 1,
+      "totalGoalsAgainst": 1,
       "netGoalDifference": 0,
       "bestFinishPosition": null,
       "prizePosition": null
     },
     {
       "name": "Cydney",
-      "teams": ["Spain"],
+      "teams": [
+        "Spain"
+      ],
       "totalGoalsFor": 0,
       "totalGoalsAgainst": 0,
       "netGoalDifference": 0,
@@ -250,7 +268,7 @@
   "prizes": {
     "totalPot": 45,
     "goalsRefund": {
-      "leader": "Sacha",
+      "leader": "James",
       "recipient": null,
       "amount": 5
     },
