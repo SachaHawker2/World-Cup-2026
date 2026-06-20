@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-06-20T20:11:59.667Z",
+  "lastUpdated": "2026-06-20T22:58:45.359Z",
   "teams": {
     "Germany": {
       "id": 759,
       "name": "Germany",
       "crest": "https://crests.football-data.org/759.svg",
       "fifaRank": 8,
-      "goalsFor": 7,
-      "goalsAgainst": 1,
-      "goalDifference": 6,
-      "played": 1,
+      "goalsFor": 9,
+      "goalsAgainst": 2,
+      "goalDifference": 7,
+      "played": 2,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-20T20:00:00Z",
-        "opponent": "Ivory Coast",
+        "date": "2026-06-25T20:00:00Z",
+        "opponent": "Ecuador",
         "stage": "GROUP_STAGE"
       }
     },
@@ -170,9 +170,9 @@
       "teams": [
         "Germany"
       ],
-      "totalGoalsFor": 7,
-      "totalGoalsAgainst": 1,
-      "netGoalDifference": 6,
+      "totalGoalsFor": 9,
+      "totalGoalsAgainst": 2,
+      "netGoalDifference": 7,
       "bestFinishPosition": null,
       "prizePosition": null
     },
