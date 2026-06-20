@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T17:27:43.214Z",
+  "lastUpdated": "2026-06-20T20:11:59.667Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -60,16 +60,16 @@
       "name": "Netherlands",
       "crest": "https://crests.football-data.org/8601.svg",
       "fifaRank": 7,
-      "goalsFor": 2,
-      "goalsAgainst": 2,
-      "goalDifference": 0,
-      "played": 1,
+      "goalsFor": 7,
+      "goalsAgainst": 3,
+      "goalDifference": 4,
+      "played": 2,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-20T17:00:00Z",
-        "opponent": "Sweden",
+        "date": "2026-06-25T23:00:00Z",
+        "opponent": "Tunisia",
         "stage": "GROUP_STAGE"
       }
     },
@@ -203,9 +203,9 @@
       "teams": [
         "Netherlands"
       ],
-      "totalGoalsFor": 2,
-      "totalGoalsAgainst": 2,
-      "netGoalDifference": 0,
+      "totalGoalsFor": 7,
+      "totalGoalsAgainst": 3,
+      "netGoalDifference": 4,
       "bestFinishPosition": null,
       "prizePosition": null
     },
@@ -268,7 +268,7 @@
   "prizes": {
     "totalPot": 45,
     "goalsRefund": {
-      "leader": "James",
+      "leader": "Rorie",
       "recipient": null,
       "amount": 5
     },
