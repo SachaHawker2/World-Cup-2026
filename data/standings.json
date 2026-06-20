@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T22:44:30.240Z",
+  "lastUpdated": "2026-06-20T09:59:57.903Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -96,16 +96,16 @@
       "name": "Brazil",
       "crest": "https://crests.football-data.org/764.svg",
       "fifaRank": 6,
-      "goalsFor": 1,
+      "goalsFor": 4,
       "goalsAgainst": 1,
-      "goalDifference": 0,
-      "played": 1,
+      "goalDifference": 3,
+      "played": 2,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-20T00:30:00Z",
-        "opponent": "Haiti",
+        "date": "2026-06-24T22:00:00Z",
+        "opponent": "Scotland",
         "stage": "GROUP_STAGE"
       }
     },
@@ -225,9 +225,9 @@
       "teams": [
         "Brazil"
       ],
-      "totalGoalsFor": 1,
+      "totalGoalsFor": 4,
       "totalGoalsAgainst": 1,
-      "netGoalDifference": 0,
+      "netGoalDifference": 3,
       "bestFinishPosition": null,
       "prizePosition": null
     },
