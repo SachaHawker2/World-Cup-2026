@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T20:21:03.659Z",
+  "lastUpdated": "2026-06-21T23:01:28.489Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -81,13 +81,13 @@
       "goalsFor": 1,
       "goalsAgainst": 1,
       "goalDifference": 0,
-      "played": 1,
+      "played": 2,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-21T19:00:00Z",
-        "opponent": "Iran",
+        "date": "2026-06-27T03:00:00Z",
+        "opponent": "New Zealand",
         "stage": "GROUP_STAGE"
       }
     },
@@ -150,9 +150,9 @@
       "name": "Spain",
       "crest": "https://crests.football-data.org/760.svg",
       "fifaRank": 2,
-      "goalsFor": 5,
+      "goalsFor": 4,
       "goalsAgainst": 0,
-      "goalDifference": 5,
+      "goalDifference": 4,
       "played": 2,
       "eliminated": false,
       "round": "GROUP_STAGE",
@@ -258,9 +258,9 @@
       "teams": [
         "Spain"
       ],
-      "totalGoalsFor": 5,
+      "totalGoalsFor": 4,
       "totalGoalsAgainst": 0,
-      "netGoalDifference": 5,
+      "netGoalDifference": 4,
       "bestFinishPosition": null,
       "prizePosition": null
     }
