@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T17:26:23.658Z",
+  "lastUpdated": "2026-06-22T19:31:00.848Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -114,16 +114,16 @@
       "name": "Argentina",
       "crest": "https://crests.football-data.org/762.png",
       "fifaRank": 1,
-      "goalsFor": 3,
+      "goalsFor": 5,
       "goalsAgainst": 0,
-      "goalDifference": 3,
-      "played": 1,
+      "goalDifference": 5,
+      "played": 2,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-22T17:00:00Z",
-        "opponent": "Austria",
+        "date": "2026-06-28T02:00:00Z",
+        "opponent": "Jordan",
         "stage": "GROUP_STAGE"
       }
     },
@@ -236,9 +236,9 @@
       "teams": [
         "Argentina"
       ],
-      "totalGoalsFor": 3,
+      "totalGoalsFor": 5,
       "totalGoalsAgainst": 0,
-      "netGoalDifference": 3,
+      "netGoalDifference": 5,
       "bestFinishPosition": null,
       "prizePosition": null
     },
