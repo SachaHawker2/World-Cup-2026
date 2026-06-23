@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T20:58:49.053Z",
+  "lastUpdated": "2026-06-23T23:00:34.708Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -27,13 +27,13 @@
       "goalsFor": 4,
       "goalsAgainst": 2,
       "goalDifference": 2,
-      "played": 1,
+      "played": 2,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-23T20:00:00Z",
-        "opponent": "Ghana",
+        "date": "2026-06-27T21:00:00Z",
+        "opponent": "Panama",
         "stage": "GROUP_STAGE"
       }
     },
