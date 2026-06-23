@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T17:57:58.456Z",
+  "lastUpdated": "2026-06-23T20:58:49.053Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -132,16 +132,16 @@
       "name": "Portugal",
       "crest": "https://crests.football-data.org/765.svg",
       "fifaRank": 5,
-      "goalsFor": 1,
+      "goalsFor": 6,
       "goalsAgainst": 1,
-      "goalDifference": 0,
-      "played": 1,
+      "goalDifference": 5,
+      "played": 2,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-06-23T17:00:00Z",
-        "opponent": "Uzbekistan",
+        "date": "2026-06-27T23:30:00Z",
+        "opponent": "Colombia",
         "stage": "GROUP_STAGE"
       }
     },
@@ -247,9 +247,9 @@
       "teams": [
         "Portugal"
       ],
-      "totalGoalsFor": 1,
+      "totalGoalsFor": 6,
       "totalGoalsAgainst": 1,
-      "netGoalDifference": 0,
+      "netGoalDifference": 5,
       "bestFinishPosition": null,
       "prizePosition": null
     },
