@@ -1,23 +1,19 @@
 {
-  "lastUpdated": "2026-06-25T23:08:51.253Z",
+  "lastUpdated": "2026-06-26T10:20:32.049Z",
   "teams": {
     "Germany": {
       "id": 759,
       "name": "Germany",
       "crest": "https://crests.football-data.org/759.svg",
       "fifaRank": 8,
-      "goalsFor": 9,
-      "goalsAgainst": 2,
-      "goalDifference": 7,
-      "played": 2,
+      "goalsFor": 10,
+      "goalsAgainst": 4,
+      "goalDifference": 6,
+      "played": 3,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-06-25T20:00:00Z",
-        "opponent": "Ecuador",
-        "stage": "GROUP_STAGE"
-      }
+      "nextMatch": null
     },
     "England": {
       "id": 770,
@@ -60,18 +56,14 @@
       "name": "Netherlands",
       "crest": "https://crests.football-data.org/8601.svg",
       "fifaRank": 7,
-      "goalsFor": 7,
-      "goalsAgainst": 3,
-      "goalDifference": 4,
-      "played": 2,
+      "goalsFor": 10,
+      "goalsAgainst": 4,
+      "goalDifference": 6,
+      "played": 3,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-06-25T23:00:00Z",
-        "opponent": "Tunisia",
-        "stage": "GROUP_STAGE"
-      }
+      "nextMatch": null
     },
     "Belgium": {
       "id": 805,
@@ -166,9 +158,9 @@
       "teams": [
         "Germany"
       ],
-      "totalGoalsFor": 9,
-      "totalGoalsAgainst": 2,
-      "netGoalDifference": 7,
+      "totalGoalsFor": 10,
+      "totalGoalsAgainst": 4,
+      "netGoalDifference": 6,
       "bestFinishPosition": null,
       "prizePosition": null
     },
@@ -199,9 +191,9 @@
       "teams": [
         "Netherlands"
       ],
-      "totalGoalsFor": 7,
-      "totalGoalsAgainst": 3,
-      "netGoalDifference": 4,
+      "totalGoalsFor": 10,
+      "totalGoalsAgainst": 4,
+      "netGoalDifference": 6,
       "bestFinishPosition": null,
       "prizePosition": null
     },
