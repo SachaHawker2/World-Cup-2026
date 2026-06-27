@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T11:17:35.981Z",
+  "lastUpdated": "2026-06-27T14:22:55.545Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -13,7 +13,11 @@
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": null
+      "nextMatch": {
+        "date": "2026-06-29T20:30:00Z",
+        "opponent": null,
+        "stage": "LAST_32"
+      }
     },
     "England": {
       "id": 770,
@@ -59,7 +63,11 @@
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": null
+      "nextMatch": {
+        "date": "2026-06-30T01:00:00Z",
+        "opponent": "Morocco",
+        "stage": "LAST_32"
+      }
     },
     "Belgium": {
       "id": 805,
@@ -87,7 +95,11 @@
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": null
+      "nextMatch": {
+        "date": "2026-06-29T17:00:00Z",
+        "opponent": "Japan",
+        "stage": "LAST_32"
+      }
     },
     "Argentina": {
       "id": 762,
