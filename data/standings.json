@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T22:59:32.106Z",
+  "lastUpdated": "2026-06-27T09:26:41.308Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -13,11 +13,7 @@
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-06-29T20:30:00Z",
-        "opponent": null,
-        "stage": "LAST_32"
-      }
+      "nextMatch": null
     },
     "England": {
       "id": 770,
@@ -63,29 +59,21 @@
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-06-30T01:00:00Z",
-        "opponent": "Morocco",
-        "stage": "LAST_32"
-      }
+      "nextMatch": null
     },
     "Belgium": {
       "id": 805,
       "name": "Belgium",
       "crest": "https://crests.football-data.org/805.svg",
       "fifaRank": 9,
-      "goalsFor": 1,
-      "goalsAgainst": 1,
-      "goalDifference": 0,
-      "played": 2,
+      "goalsFor": 6,
+      "goalsAgainst": 2,
+      "goalDifference": 4,
+      "played": 3,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-06-27T03:00:00Z",
-        "opponent": "New Zealand",
-        "stage": "GROUP_STAGE"
-      }
+      "nextMatch": null
     },
     "Brazil": {
       "id": 764,
@@ -99,11 +87,7 @@
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-06-29T17:00:00Z",
-        "opponent": "Japan",
-        "stage": "LAST_32"
-      }
+      "nextMatch": null
     },
     "Argentina": {
       "id": 762,
@@ -146,18 +130,14 @@
       "name": "Spain",
       "crest": "https://crests.football-data.org/760.svg",
       "fifaRank": 2,
-      "goalsFor": 4,
+      "goalsFor": 5,
       "goalsAgainst": 0,
-      "goalDifference": 4,
-      "played": 2,
+      "goalDifference": 5,
+      "played": 3,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-06-27T00:00:00Z",
-        "opponent": "Uruguay",
-        "stage": "GROUP_STAGE"
-      }
+      "nextMatch": null
     }
   },
   "participantStandings": [
@@ -210,9 +190,9 @@
       "teams": [
         "Belgium"
       ],
-      "totalGoalsFor": 1,
-      "totalGoalsAgainst": 1,
-      "netGoalDifference": 0,
+      "totalGoalsFor": 6,
+      "totalGoalsAgainst": 2,
+      "netGoalDifference": 4,
       "bestFinishPosition": null,
       "prizePosition": null
     },
@@ -254,9 +234,9 @@
       "teams": [
         "Spain"
       ],
-      "totalGoalsFor": 4,
+      "totalGoalsFor": 5,
       "totalGoalsAgainst": 0,
-      "netGoalDifference": 4,
+      "netGoalDifference": 5,
       "bestFinishPosition": null,
       "prizePosition": null
     }
@@ -264,7 +244,7 @@
   "prizes": {
     "totalPot": 45,
     "goalsRefund": {
-      "leader": "Rorie",
+      "leader": "Adam",
       "recipient": null,
       "amount": 5
     },
