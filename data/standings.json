@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T18:09:48.931Z",
+  "lastUpdated": "2026-06-29T20:47:15.758Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -96,18 +96,14 @@
       "name": "Brazil",
       "crest": "https://crests.football-data.org/764.svg",
       "fifaRank": 6,
-      "goalsFor": 7,
-      "goalsAgainst": 1,
-      "goalDifference": 6,
-      "played": 3,
+      "goalsFor": 9,
+      "goalsAgainst": 2,
+      "goalDifference": 7,
+      "played": 4,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-06-29T17:00:00Z",
-        "opponent": "Japan",
-        "stage": "LAST_32"
-      }
+      "nextMatch": null
     },
     "Argentina": {
       "id": 762,
@@ -225,9 +221,9 @@
       "teams": [
         "Brazil"
       ],
-      "totalGoalsFor": 7,
-      "totalGoalsAgainst": 1,
-      "netGoalDifference": 6,
+      "totalGoalsFor": 9,
+      "totalGoalsAgainst": 2,
+      "netGoalDifference": 7,
       "bestFinishPosition": null,
       "prizePosition": null
     },
