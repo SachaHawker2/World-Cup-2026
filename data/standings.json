@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T22:47:34.841Z",
+  "lastUpdated": "2026-06-30T10:30:10.415Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -9,15 +9,11 @@
       "goalsFor": 10,
       "goalsAgainst": 4,
       "goalDifference": 6,
-      "played": 3,
-      "eliminated": false,
+      "played": 4,
+      "eliminated": true,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-06-29T20:30:00Z",
-        "opponent": "Paraguay",
-        "stage": "LAST_32"
-      }
+      "nextMatch": null
     },
     "England": {
       "id": 770,
@@ -63,15 +59,11 @@
       "goalsFor": 10,
       "goalsAgainst": 4,
       "goalDifference": 6,
-      "played": 3,
-      "eliminated": false,
+      "played": 4,
+      "eliminated": true,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-06-30T01:00:00Z",
-        "opponent": "Morocco",
-        "stage": "LAST_32"
-      }
+      "nextMatch": null
     },
     "Belgium": {
       "id": 805,
@@ -103,7 +95,11 @@
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": null
+      "nextMatch": {
+        "date": "2026-07-05T20:00:00Z",
+        "opponent": null,
+        "stage": "LAST_16"
+      }
     },
     "Argentina": {
       "id": 762,
