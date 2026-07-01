@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T20:45:52.924Z",
+  "lastUpdated": "2026-07-01T23:03:44.885Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -66,18 +66,14 @@
       "name": "Belgium",
       "crest": "https://crests.football-data.org/805.svg",
       "fifaRank": 9,
-      "goalsFor": 6,
+      "goalsFor": 7,
       "goalsAgainst": 2,
-      "goalDifference": 4,
-      "played": 3,
+      "goalDifference": 5,
+      "played": 4,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-07-01T20:00:00Z",
-        "opponent": "Senegal",
-        "stage": "LAST_32"
-      }
+      "nextMatch": null
     },
     "Brazil": {
       "id": 764,
@@ -202,9 +198,9 @@
       "teams": [
         "Belgium"
       ],
-      "totalGoalsFor": 6,
+      "totalGoalsFor": 7,
       "totalGoalsAgainst": 2,
-      "netGoalDifference": 4,
+      "netGoalDifference": 5,
       "bestFinishPosition": null,
       "prizePosition": null
     },
@@ -256,7 +252,7 @@
   "prizes": {
     "totalPot": 45,
     "goalsRefund": {
-      "leader": "Rorie",
+      "leader": "Adam",
       "recipient": null,
       "amount": 5
     },
