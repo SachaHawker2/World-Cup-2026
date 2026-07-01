@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T17:58:16.525Z",
+  "lastUpdated": "2026-07-01T20:45:52.924Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -20,18 +20,14 @@
       "name": "England",
       "crest": "https://crests.football-data.org/770.svg",
       "fifaRank": 4,
-      "goalsFor": 6,
-      "goalsAgainst": 2,
-      "goalDifference": 4,
-      "played": 3,
+      "goalsFor": 8,
+      "goalsAgainst": 3,
+      "goalDifference": 5,
+      "played": 4,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-07-01T16:00:00Z",
-        "opponent": "Congo DR",
-        "stage": "LAST_32"
-      }
+      "nextMatch": null
     },
     "France": {
       "id": 773,
@@ -173,9 +169,9 @@
       "teams": [
         "England"
       ],
-      "totalGoalsFor": 6,
-      "totalGoalsAgainst": 2,
-      "netGoalDifference": 4,
+      "totalGoalsFor": 8,
+      "totalGoalsAgainst": 3,
+      "netGoalDifference": 5,
       "bestFinishPosition": null,
       "prizePosition": null
     },
@@ -260,7 +256,7 @@
   "prizes": {
     "totalPot": 45,
     "goalsRefund": {
-      "leader": "Adam",
+      "leader": "Rorie",
       "recipient": null,
       "amount": 5
     },
