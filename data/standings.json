@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T23:03:44.885Z",
+  "lastUpdated": "2026-07-02T09:58:17.642Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -27,7 +27,11 @@
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": null
+      "nextMatch": {
+        "date": "2026-07-06T00:00:00Z",
+        "opponent": "Mexico",
+        "stage": "LAST_16"
+      }
     },
     "France": {
       "id": 773,
@@ -73,7 +77,11 @@
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": null
+      "nextMatch": {
+        "date": "2026-07-07T00:00:00Z",
+        "opponent": "United States",
+        "stage": "LAST_16"
+      }
     },
     "Brazil": {
       "id": 764,
