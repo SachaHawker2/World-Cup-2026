@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T22:55:32.599Z",
+  "lastUpdated": "2026-07-04T09:19:37.716Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -106,17 +106,17 @@
       "name": "Argentina",
       "crest": "https://crests.football-data.org/762.png",
       "fifaRank": 1,
-      "goalsFor": 8,
-      "goalsAgainst": 1,
-      "goalDifference": 7,
-      "played": 3,
+      "goalsFor": 10,
+      "goalsAgainst": 2,
+      "goalDifference": 8,
+      "played": 4,
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
       "nextMatch": {
-        "date": "2026-07-03T22:00:00Z",
-        "opponent": "Cape Verde Islands",
-        "stage": "LAST_32"
+        "date": "2026-07-07T16:00:00Z",
+        "opponent": "Egypt",
+        "stage": "LAST_16"
       }
     },
     "Portugal": {
@@ -131,7 +131,11 @@
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": null
+      "nextMatch": {
+        "date": "2026-07-06T19:00:00Z",
+        "opponent": "Spain",
+        "stage": "LAST_16"
+      }
     },
     "Spain": {
       "id": 760,
@@ -145,7 +149,11 @@
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": null
+      "nextMatch": {
+        "date": "2026-07-06T19:00:00Z",
+        "opponent": "Portugal",
+        "stage": "LAST_16"
+      }
     }
   },
   "participantStandings": [
@@ -220,9 +228,9 @@
       "teams": [
         "Argentina"
       ],
-      "totalGoalsFor": 8,
-      "totalGoalsAgainst": 1,
-      "netGoalDifference": 7,
+      "totalGoalsFor": 10,
+      "totalGoalsAgainst": 2,
+      "netGoalDifference": 8,
       "bestFinishPosition": null,
       "prizePosition": null
     },
