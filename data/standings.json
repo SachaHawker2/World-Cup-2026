@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T22:52:17.089Z",
+  "lastUpdated": "2026-07-08T09:23:27.116Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -109,7 +109,11 @@
       "eliminated": false,
       "round": "GROUP_STAGE",
       "finishPosition": null,
-      "nextMatch": null
+      "nextMatch": {
+        "date": "2026-07-12T01:00:00Z",
+        "opponent": "Switzerland",
+        "stage": "QUARTER_FINALS"
+      }
     },
     "Portugal": {
       "id": 765,
