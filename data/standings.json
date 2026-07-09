@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T20:42:44.042Z",
+  "lastUpdated": "2026-07-09T23:03:07.332Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -38,18 +38,14 @@
       "name": "France",
       "crest": "https://crests.football-data.org/773.svg",
       "fifaRank": 3,
-      "goalsFor": 14,
+      "goalsFor": 16,
       "goalsAgainst": 2,
-      "goalDifference": 12,
-      "played": 5,
+      "goalDifference": 14,
+      "played": 6,
       "eliminated": false,
-      "round": "GROUP_STAGE",
+      "round": "QUARTER_FINALS",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-07-09T20:00:00Z",
-        "opponent": "Morocco",
-        "stage": "QUARTER_FINALS"
-      }
+      "nextMatch": null
     },
     "Netherlands": {
       "id": 8601,
@@ -176,9 +172,9 @@
       "teams": [
         "France"
       ],
-      "totalGoalsFor": 14,
+      "totalGoalsFor": 16,
       "totalGoalsAgainst": 2,
-      "netGoalDifference": 12,
+      "netGoalDifference": 14,
       "bestFinishPosition": null,
       "prizePosition": null
     },
