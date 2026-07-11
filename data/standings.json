@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T22:51:59.396Z",
+  "lastUpdated": "2026-07-11T08:44:06.848Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -47,7 +47,7 @@
       "finishPosition": null,
       "nextMatch": {
         "date": "2026-07-14T19:00:00Z",
-        "opponent": null,
+        "opponent": "Spain",
         "stage": "SEMI_FINALS"
       }
     },
@@ -137,7 +137,11 @@
       "eliminated": false,
       "round": "QUARTER_FINALS",
       "finishPosition": null,
-      "nextMatch": null
+      "nextMatch": {
+        "date": "2026-07-14T19:00:00Z",
+        "opponent": "France",
+        "stage": "SEMI_FINALS"
+      }
     }
   },
   "participantStandings": [
