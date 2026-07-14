@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T20:05:41.982Z",
+  "lastUpdated": "2026-07-14T22:47:41.832Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -39,17 +39,13 @@
       "crest": "https://crests.football-data.org/773.svg",
       "fifaRank": 3,
       "goalsFor": 16,
-      "goalsAgainst": 2,
-      "goalDifference": 14,
-      "played": 6,
-      "eliminated": false,
-      "round": "QUARTER_FINALS",
+      "goalsAgainst": 4,
+      "goalDifference": 12,
+      "played": 7,
+      "eliminated": true,
+      "round": "SEMI_FINALS",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-07-14T19:00:00Z",
-        "opponent": "Spain",
-        "stage": "SEMI_FINALS"
-      }
+      "nextMatch": null
     },
     "Netherlands": {
       "id": 8601,
@@ -130,18 +126,14 @@
       "name": "Spain",
       "crest": "https://crests.football-data.org/760.svg",
       "fifaRank": 2,
-      "goalsFor": 11,
+      "goalsFor": 13,
       "goalsAgainst": 1,
-      "goalDifference": 10,
-      "played": 6,
+      "goalDifference": 12,
+      "played": 7,
       "eliminated": false,
-      "round": "QUARTER_FINALS",
+      "round": "SEMI_FINALS",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-07-14T19:00:00Z",
-        "opponent": "France",
-        "stage": "SEMI_FINALS"
-      }
+      "nextMatch": null
     }
   },
   "participantStandings": [
@@ -173,8 +165,8 @@
         "France"
       ],
       "totalGoalsFor": 16,
-      "totalGoalsAgainst": 2,
-      "netGoalDifference": 14,
+      "totalGoalsAgainst": 4,
+      "netGoalDifference": 12,
       "bestFinishPosition": null,
       "prizePosition": null
     },
@@ -238,9 +230,9 @@
       "teams": [
         "Spain"
       ],
-      "totalGoalsFor": 11,
+      "totalGoalsFor": 13,
       "totalGoalsAgainst": 1,
-      "netGoalDifference": 10,
+      "netGoalDifference": 12,
       "bestFinishPosition": null,
       "prizePosition": null
     }
