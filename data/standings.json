@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T20:03:13.370Z",
+  "lastUpdated": "2026-07-15T22:50:19.730Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -20,18 +20,14 @@
       "name": "England",
       "crest": "https://crests.football-data.org/770.svg",
       "fifaRank": 4,
-      "goalsFor": 12,
-      "goalsAgainst": 5,
-      "goalDifference": 7,
-      "played": 6,
-      "eliminated": false,
-      "round": "QUARTER_FINALS",
+      "goalsFor": 13,
+      "goalsAgainst": 7,
+      "goalDifference": 6,
+      "played": 7,
+      "eliminated": true,
+      "round": "SEMI_FINALS",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-07-15T19:00:00Z",
-        "opponent": "Argentina",
-        "stage": "SEMI_FINALS"
-      }
+      "nextMatch": null
     },
     "France": {
       "id": 773,
@@ -94,18 +90,14 @@
       "name": "Argentina",
       "crest": "https://crests.football-data.org/762.png",
       "fifaRank": 1,
-      "goalsFor": 15,
-      "goalsAgainst": 4,
-      "goalDifference": 11,
-      "played": 6,
+      "goalsFor": 17,
+      "goalsAgainst": 5,
+      "goalDifference": 12,
+      "played": 7,
       "eliminated": false,
-      "round": "QUARTER_FINALS",
+      "round": "SEMI_FINALS",
       "finishPosition": null,
-      "nextMatch": {
-        "date": "2026-07-15T19:00:00Z",
-        "opponent": "England",
-        "stage": "SEMI_FINALS"
-      }
+      "nextMatch": null
     },
     "Portugal": {
       "id": 765,
@@ -157,9 +149,9 @@
       "teams": [
         "England"
       ],
-      "totalGoalsFor": 12,
-      "totalGoalsAgainst": 5,
-      "netGoalDifference": 7,
+      "totalGoalsFor": 13,
+      "totalGoalsAgainst": 7,
+      "netGoalDifference": 6,
       "bestFinishPosition": null,
       "prizePosition": null
     },
@@ -212,9 +204,9 @@
       "teams": [
         "Argentina"
       ],
-      "totalGoalsFor": 15,
-      "totalGoalsAgainst": 4,
-      "netGoalDifference": 11,
+      "totalGoalsFor": 17,
+      "totalGoalsAgainst": 5,
+      "netGoalDifference": 12,
       "bestFinishPosition": null,
       "prizePosition": null
     },
