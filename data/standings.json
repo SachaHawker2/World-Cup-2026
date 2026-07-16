@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T22:50:19.730Z",
+  "lastUpdated": "2026-07-16T09:10:24.436Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -97,7 +97,11 @@
       "eliminated": false,
       "round": "SEMI_FINALS",
       "finishPosition": null,
-      "nextMatch": null
+      "nextMatch": {
+        "date": "2026-07-19T19:00:00Z",
+        "opponent": "Spain",
+        "stage": "FINAL"
+      }
     },
     "Portugal": {
       "id": 765,
@@ -127,7 +131,7 @@
       "finishPosition": null,
       "nextMatch": {
         "date": "2026-07-19T19:00:00Z",
-        "opponent": null,
+        "opponent": "Argentina",
         "stage": "FINAL"
       }
     }
