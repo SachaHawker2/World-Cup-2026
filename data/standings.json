@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T22:39:09.226Z",
+  "lastUpdated": "2026-07-19T09:03:16.678Z",
   "teams": {
     "Germany": {
       "id": 759,
@@ -20,13 +20,13 @@
       "name": "England",
       "crest": "https://crests.football-data.org/770.svg",
       "fifaRank": 4,
-      "goalsFor": 13,
-      "goalsAgainst": 7,
-      "goalDifference": 6,
-      "played": 7,
+      "goalsFor": 19,
+      "goalsAgainst": 11,
+      "goalDifference": 8,
+      "played": 8,
       "eliminated": true,
-      "round": "SEMI_FINALS",
-      "finishPosition": null,
+      "round": "THIRD_PLACE",
+      "finishPosition": 3,
       "nextMatch": null
     },
     "France": {
@@ -34,13 +34,13 @@
       "name": "France",
       "crest": "https://crests.football-data.org/773.svg",
       "fifaRank": 3,
-      "goalsFor": 16,
-      "goalsAgainst": 4,
-      "goalDifference": 12,
-      "played": 7,
+      "goalsFor": 20,
+      "goalsAgainst": 10,
+      "goalDifference": 10,
+      "played": 8,
       "eliminated": true,
-      "round": "SEMI_FINALS",
-      "finishPosition": null,
+      "round": "THIRD_PLACE",
+      "finishPosition": 4,
       "nextMatch": null
     },
     "Netherlands": {
@@ -153,21 +153,21 @@
       "teams": [
         "England"
       ],
-      "totalGoalsFor": 13,
-      "totalGoalsAgainst": 7,
-      "netGoalDifference": 6,
-      "bestFinishPosition": null,
-      "prizePosition": null
+      "totalGoalsFor": 19,
+      "totalGoalsAgainst": 11,
+      "netGoalDifference": 8,
+      "bestFinishPosition": 3,
+      "prizePosition": 1
     },
     {
       "name": "Tracy",
       "teams": [
         "France"
       ],
-      "totalGoalsFor": 16,
-      "totalGoalsAgainst": 4,
-      "netGoalDifference": 12,
-      "bestFinishPosition": null,
+      "totalGoalsFor": 20,
+      "totalGoalsAgainst": 10,
+      "netGoalDifference": 10,
+      "bestFinishPosition": 4,
       "prizePosition": null
     },
     {
@@ -246,7 +246,7 @@
     },
     "remainingPot": 40,
     "first": {
-      "recipient": null,
+      "recipient": "Adam",
       "amount": 40
     }
   }
